@@ -81,15 +81,6 @@ int factorial(int n) {
 }
 
 
-int nCr(int n, int r) {
-    int denominator=factorial(r);
-    int numerator=1;
-    for(int i=n;i>=n-r+1;i--){
-        numerator*=i;
-    }
-    return numerator/denominator;
-}
-
 
 void solve(){
 
