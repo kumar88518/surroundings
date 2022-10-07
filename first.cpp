@@ -133,7 +133,6 @@ void solve(){
 
 int32_t main(){
 
-   GARUDA
 /*
     #ifndef ONLINE_JUDGE
         freopen("input.txt","r",stdin);
